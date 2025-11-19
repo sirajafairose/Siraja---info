@@ -1,6 +1,6 @@
 # Siraja---info
 This is a special repository
-👋 Hi, I'm Zarah
+👋 Hi, I'm Noor Siraja 
 
 Certified Junior Data Analyst | Excel | SQL | Power BI | Python
 
