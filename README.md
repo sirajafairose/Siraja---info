@@ -2,6 +2,7 @@
 
 
 ✨ About Me ✨
+
 I am Noor Siraja, a passionate data enthusiast and aspiring analytics professional with hands-on expertise in Excel, SQL, Python, Machine Learning, and Power BI. I excel at transforming complex data into actionable insights, building interactive dashboards, and creating predictive models that solve real-world problems. My work spans financial planning, data visualization, sentiment analysis, and recommendation systems, reflecting both analytical skills and practical applications.
 
 ─────────────────────────────
